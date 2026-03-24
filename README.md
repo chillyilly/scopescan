@@ -1,6 +1,6 @@
 # ScopeScan
 
-**Attack surface security scanner** — enumerate subdomains from 5 OSINT sources, then run 7 security scanning modules to identify vulnerabilities, misconfigurations, and exposure across an organization's entire subdomain footprint.
+**Attack surface security scanner** enumerate subdomains from 5 OSINT sources, then run 7 security scanning modules to identify vulnerabilities, misconfigurations, and exposure across an organization's entire subdomain footprint.
 
 ```
 $ python3 scopescan.py example.com
