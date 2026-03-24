@@ -96,10 +96,6 @@ Each subdomain gets a composite risk score based on findings from all modules:
 - **CSV** — flat spreadsheet with one row per subdomain
 - **JSON** — complete structured data dump
 
-### Terminal Animation
-
-A rotating spiral animation displays next to each module name while scans are running, providing visual feedback during long operations.
-
 ---
 
 ## Installation
